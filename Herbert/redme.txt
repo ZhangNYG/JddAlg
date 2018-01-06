@@ -1,0 +1,2 @@
+https://github.com/PeterChenYijie/DeepLearning/tree/master/JDD
+https://github.com/Herbert95/JDD_sale_amt_forecast/blob/master/time_series.py
